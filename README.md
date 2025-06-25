@@ -125,14 +125,9 @@ Username: amit123@gmail.com
 Password: Test@123
 or register a new patient account
 
-📹 Demo Video
 
 📹 Demo Video  
-▶️ [Click here to download and watch the demo video](https://github.com/madhavidurga2000/HealthHub-Django-webapp/blob/main/demo.mp4)
-
-
-
-
+▶️ [Click here to download and watch the demo video](https://raw.githubusercontent.com/madhavidurga2000/HealthHub-Django-webapp/main/demo.mp4)
 👩‍💻 Author
 Madhavi Durga
 Email: madhavidurga2000@gmail.com
