@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System - Django Web Application
+# 🏥 HealthHub - Django Web Application
 
 Project Modules
 Hospital Management System Project using Python is web application for hospital which manages doctors and patients. In this project, we use Python with Django framework and MySQL database.
