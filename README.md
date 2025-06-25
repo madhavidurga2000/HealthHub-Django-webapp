@@ -127,7 +127,8 @@ or register a new patient account
 
 📹 Demo Video
 
-🎥 Click here to watch demo video
+🎥 [Demo Video](https://github.com/madhavidurga2000/Hospital-Management-System-Django-Web-App/blob/main/demo.mp4?raw=true)
+
 
 👩‍💻 Author
 Madhavi Durga
