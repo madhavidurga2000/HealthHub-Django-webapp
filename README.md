@@ -127,15 +127,7 @@ or register a new patient account
 
 📹 Demo Video
 
-🎥 ## 🎬 Demo Video
-
-## 🎬 Demo Video
-
-## 🎥 Demo Video
-
-[▶️ Click here to watch the demo video](https://github.com/madhavidurga2000/Hospital-Management-System-Django-Web-App/raw/main/demo.mp4)
-👉 Click here to download the video[https://github.com/madhavidurga2000/Hospital-Management-System-Django-Web-App/raw/main/demo.mp4](url)
-
+[▶️ Click here to download and watch the demo video](https://github.com/madhavidurga2000/Hospital-Management-System-Django-Web-App/raw/main/demo.mp4)
 
 
 
