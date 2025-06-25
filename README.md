@@ -91,7 +91,7 @@ The system allows:
 ### Step-by-step Setup Instructions:
 
 1. **Download or Clone the Repo**
-2. git clone https://github.com/madhavidurga2000/Hospital-Management-System-Django-Web-App.git
+2. git clone https://github.com/madhavidurga2000/HealthHub-Django-webapp.git
 3. 
 2. **Create a MySQL Database**  
 - Name: `hmspythondb`
